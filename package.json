@@ -1,0 +1,22 @@
+{
+    "name": "simple-solidity-storage",
+    "version": "1.0.0",
+    "description": "storing data in solidity ",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "start": "static-server public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PaduaC/simple-solidity-storage.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/PaduaC/simple-solidity-storage/issues"
+    },
+    "homepage": "https://github.com/PaduaC/simple-solidity-storage#readme"
+}
